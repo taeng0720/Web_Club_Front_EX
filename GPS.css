@@ -1,0 +1,27 @@
+body{
+    background-color: #272727;
+}
+.Main{
+    width: 450px;
+    height: 800px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: #ffffff;
+}
+nav{
+    width: 100%;
+    text-align: center;
+    height: 100px;
+    border-bottom: 2px solid #dcdcdc;
+}
+nav a{
+    width: 225px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    margin-top: 200px;
+}
+.course{
+    border-bottom: 2px solid #000000;
+    font-weight:bolder;
+}
